@@ -1,0 +1,7 @@
+Q:what are HTML entities?listout 5 commonly used HTML entities?
+A:HTML entities are special codes used in HTML to represent characters and symbols. Here are some commonly used HTML entities:
+    i- &lt; - Less than sign (<)
+    ii- &gt; - Greater than sign (>)
+    iii- &copy; - Copyright symbol (©)
+    iv- &euro; - Euro symbol (€)
+    v - &amp; - Ampersand (&)

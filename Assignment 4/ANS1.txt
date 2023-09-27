@@ -1,0 +1,7 @@
+Q: list out the features of HTML5
+A: HTML5 have several new features over HTML4
+    i-Semantic Elements:HTML5 introduce various Semanti elements like  <header>, <nav>, <article>, <section>, <footer>, and more
+    ii-Video and Audio: HTML5 introduced the <video> and <audio> elements, making it easy to embed multimedia content without relying on third-party plugins like Flash.
+    iii-Canvas: The <canvas> element allows for dynamic rendering of graphics, charts, animations, and games directly within the browser
+    iv-Geolocation: HTML5 enables websites to request a user's geographical location, which can be useful for location-based services 
+    v-Local Storage: The localStorage and sessionStorage APIs provide a way to store data locally in the user's browser
